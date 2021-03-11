@@ -1,4 +1,4 @@
-# AulaSapiens
+# Aula_Sapiens
 / Atividades de WEB + PHP
-/ Página de dados cadstrais
+/ Página de dados cadastrais
 / Adição de conteúdo na tabela com PHP
